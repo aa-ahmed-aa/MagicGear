@@ -1,8 +1,7 @@
 # MagicGear
 this will read your image and write it to the command and also write it in a file so Fun
 
-![alt tag](https://raw.github.com/aa-ahmed-aa/MagicGear/screenshot.png)
-
+![Alt text](https://github.com/aa-ahmed-aa/MagicGear/blob/master/screenshot.png "Optional title")
 
 
 #Platform
